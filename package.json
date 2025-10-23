@@ -1,5 +1,5 @@
 {
-  "name": "next-api-test",
+  "name": "vercel-min-api",
   "private": true,
   "dependencies": {
     "next": "14.2.5",
