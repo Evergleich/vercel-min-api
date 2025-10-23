@@ -1,0 +1,5 @@
+{
+  "name": "vercel-min-api",
+  "private": true,
+  "type": "module"
+}
